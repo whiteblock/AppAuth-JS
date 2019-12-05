@@ -16,3 +16,5 @@ typings/
 
 built/app/
 built/node_app/
+
+package-lock.json
