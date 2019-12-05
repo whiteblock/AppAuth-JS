@@ -1,2 +1,2 @@
-export declare const IS_LOG = true;
-export declare const IS_PROFILE = false;
+export declare let IS_LOG: boolean;
+export declare let IS_PROFILE: boolean;
